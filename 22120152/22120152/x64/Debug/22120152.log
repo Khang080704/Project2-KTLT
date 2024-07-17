@@ -1,0 +1,22 @@
+﻿  algorithms.cpp
+F:\Dai hoc\Year 2\HK2\KTLT\Project_2\22120152\22120152\algorithms.cpp(3,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Dai hoc\Year 2\HK2\KTLT\Project_2\22120152\22120152\algorithms.cpp(93,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Dai hoc\Year 2\HK2\KTLT\Project_2\22120152\22120152\algorithms.cpp(102,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+F:\Dai hoc\Year 2\HK2\KTLT\Project_2\22120152\22120152\main.cpp(29,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Dai hoc\Year 2\HK2\KTLT\Project_2\22120152\22120152\main.cpp(32,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Dai hoc\Year 2\HK2\KTLT\Project_2\22120152\22120152\main.cpp(45,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Dai hoc\Year 2\HK2\KTLT\Project_2\22120152\22120152\main.cpp(46,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Dai hoc\Year 2\HK2\KTLT\Project_2\22120152\22120152\main.cpp(88,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Dai hoc\Year 2\HK2\KTLT\Project_2\22120152\22120152\main.cpp(91,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Dai hoc\Year 2\HK2\KTLT\Project_2\22120152\22120152\main.cpp(100,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Dai hoc\Year 2\HK2\KTLT\Project_2\22120152\22120152\main.cpp(101,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Dai hoc\Year 2\HK2\KTLT\Project_2\22120152\22120152\main.cpp(171,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Dai hoc\Year 2\HK2\KTLT\Project_2\22120152\22120152\main.cpp(203,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Dai hoc\Year 2\HK2\KTLT\Project_2\22120152\22120152\main.cpp(204,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Dai hoc\Year 2\HK2\KTLT\Project_2\22120152\22120152\main.cpp(205,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Queue.cpp
+  Stack.cpp
+  Generating Code...
+F:\Dai hoc\Year 2\HK2\KTLT\Project_2\22120152\22120152\Queue.cpp(46,1): warning C4715: 'popQueue': not all control paths return a value
+  22120152.vcxproj -> F:\Dai hoc\Year 2\HK2\KTLT\Project_2\22120152\x64\Debug\22120152.exe
